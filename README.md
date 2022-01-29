@@ -6,7 +6,6 @@ An Android Sample project with: Kotlin, MVVM, Dagger2, Retrofit, Coroutine and m
 
 - Language: Kotlin
 - Architecture: MVVM
-- Android architecture components: ViewModel, LiveData, Sealed Classs
-  
-- Dependency injection: Dagger2HILT
+- Android architecture components: ViewModel, LiveData, State Flow, Sealed Classs
+- Dependency injection: Dagger2 HILT
 - Network: Retrofit
